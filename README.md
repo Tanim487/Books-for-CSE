@@ -3,7 +3,7 @@
 This repository contains resources for the following courses. Each course is accompanied by relevant textbooks, solutions, and programming references.
 
 ## 1. Discrete Mathematics
-- [Discrete Mathematics & its Application (7th Edition)]([https://github.com/your-username/your-repo-name/raw/main/Discrete-Mathematics-7th-Edition.pdf](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Discrete%20Mathematics%20%26%20its%20Application%20-%20by%20-%20Kenneth%20H.%20Rosen%207th%20edition.pdf))
+- [Discrete Mathematics & its Application (7th Edition)](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Discrete%20Mathematics%20%26%20its%20Application%20-%20by%20-%20Kenneth%20H.%20Rosen%207th%20edition.pdf)
 - [Discrete Mathematics & its Application (8th Edition)](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Discrete%20Mathematics%20%26%20its%20Application%20-%20by%20-%20Kenneth%20H.%20Rosen%208th%20edition.pdf)
 
 ## 2. Intensive English I
