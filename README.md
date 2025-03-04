@@ -17,15 +17,15 @@ This repository contains resources for the following courses. Each course is acc
 
 ## 5. Calculus & Linear Algebra
 - [Calculus: Early Transcendentals by Anton (10th Edition)](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Calculus%20Early%20Transcendentals%20-%20Anton%20-10th%20Ed.pdf)
-- [Calculus: Early Transcendentals Solutions (10th Edition)](pdf_not_available)
+- [Calculus: Early Transcendentals Solutions (10th Edition)] pdf_not_available
 
 ## 6. Digital Logic Design
-- [Logic and Computer Design Fundamentals by Morris Mano (5th Edition)](pdf_not_available)
+- [Logic and Computer Design Fundamentals by Morris Mano (5th Edition)] pdf_not_available
 
 ## 7. Object-Oriented Programming
 - [Java: The Complete Reference (7th Edition)](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Java%20The%20Complete%20Reference-seventh%20edition.pdf)
-- [Java: The Complete Reference (11th Edition)](pdf_not_available)
-- [Head First Java (2nd Edition)](pdf_not_available)
+- [Java: The Complete Reference (11th Edition)] pdf_not_available
+- [Head First Java (2nd Edition)] pdf_not_available
 - [Java How to Program by Deitel](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Java%20how%20to%20program-Deitel.pdf)
 
 ## 8. Data Structures and Algorithms
