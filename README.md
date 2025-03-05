@@ -42,3 +42,10 @@ This repository contains resources for the following courses. Each course is acc
 
 ## 10. Computer Networks
 - [Computer Networking: A Top-Down Approach (6th Edition)](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Computer.Networking%20A%20Top-Down%20Approach%206th%20Edition.pdf)
+
+## 11. Microprocessors and Microcontrollers
+- [Rafiquzzan microprocessor_Page_6_to_32](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Rafiquzzan%20microprocessor_Page_6_to_32.pdf)
+- [Rafiquzzan microprocessor_Page_111_to_116](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Rafiquzzan%20microprocessor_Page_111_to_116.pdf)
+- [The Intel Microprocessors 8th Edition by Barry B. Brey](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/The%20Intel%20Microprocessors%208th%20Edition%20by%20Barry%20B.%20Brey.pdf)
+- [Digital-Computer-Electronics-Albert-Paul-Malvino-and-Jerald-A-Brown](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Digital-Computer-Electronics-Albert-Paul-Malvino-and-Jerald-A-Brown-pdf.pdf)
+- [Assembly_Language_Programming___Organization_of_the_IBM_PC_by_Ytha___Marut](https://github.com/Tanim487/Books-for-CSE/raw/main/Book%20Store/Assembly_Language_Programming___Organization_of_the_IBM_PC_by_Ytha___Marut.pdf)
